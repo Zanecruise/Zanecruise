@@ -42,7 +42,7 @@ Hoje, foco principalmente no desenvolvimento back-end utilizando Java com Spring
 - Clean Architecture com Java
 - Design Patterns
 - Mobile
-- Desenvolvimeno de jogos
+- Desenvolvimento de jogos
 
 ---
 
